@@ -49,7 +49,7 @@ Welcome to the **Android Compose Project**! This repository showcases various an
 ### TikTok: [@infinityprogrammer](https://www.instagram.com/programmerinfinity/)
 ### YouTube: [@InfinityProgrammer](https://www.youtube.com/@InfinityProgrammer)
 
-##Tech Stack
+## Tech Stack
 1. Language: Kotlin
 2. UI Framework: Jetpack Compose
 3. Navigation: Jetpack Compose Navigation
