@@ -45,9 +45,9 @@ Welcome to the **Android Compose Project**! This repository showcases various an
 ## Social Media
 -Stay connected and follow us for updates, tutorials, and more exciting projects:
 
-### Instagram: @programmerinfinity
-### TikTok: @infinityprogrammer
-### YouTube: Infinity Programmer
+### Instagram: [@programmerinfinity](https://www.instagram.com/programmerinfinity/)
+### TikTok: [@infinityprogrammer](https://www.instagram.com/programmerinfinity/)
+### YouTube: [@InfinityProgrammer](https://www.youtube.com/@InfinityProgrammer)
 
 ##Tech Stack
 1. Language: Kotlin
