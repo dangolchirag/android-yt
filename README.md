@@ -56,13 +56,13 @@ Welcome to the **Android Compose Project**! This repository showcases various an
 4. Animations: Jetpack Compose Animation APIs
 5. Custom Utilities: For path and sticky list implementation.
 
-##Contributions
+## Contributions
 Contributions are welcome! Please feel free to fork this repository and submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-##Contact
+## Contact
 For any inquiries or suggestions, feel free to reach out.
 
 Happy coding! 🎉
