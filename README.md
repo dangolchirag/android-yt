@@ -46,7 +46,7 @@ Welcome to the **Android Compose Project**! This repository showcases various an
 -Stay connected and follow us for updates, tutorials, and more exciting projects:
 
 ### Instagram: [@programmerinfinity](https://www.instagram.com/programmerinfinity/)
-### TikTok: [@infinityprogrammer](https://www.instagram.com/programmerinfinity/)
+### TikTok: [@infinityprogrammer](https://www.tiktok.com/@infinityprogrammer)
 ### YouTube: [@InfinityProgrammer](https://www.youtube.com/@InfinityProgrammer)
 
 ## Tech Stack
