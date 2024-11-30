@@ -13,7 +13,7 @@
         android:theme="@style/Theme.LazyColumn"
         tools:targetApi="31">
         <activity
-            android:name=".HeartActivity"
+            android:name=".CoffeeActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.LazyColumn">
