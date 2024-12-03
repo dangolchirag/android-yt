@@ -360,13 +360,3 @@ fun DrawScope.drawAnimatedPath(
         )
     }
 }
-
-@PreviewLightDark
-@Composable
-private fun CoffeeScreenPreview() {
-    LazyColumnTheme {
-        Scaffold { padding ->
-            CoffeeCupCanvas(Modifier.padding(padding))
-        }
-    }
-}
